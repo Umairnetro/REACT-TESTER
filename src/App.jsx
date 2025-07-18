@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-    <h1>NETRO</h1>
+    <h1>NETRO - </h1>
     </>
   )
 }
